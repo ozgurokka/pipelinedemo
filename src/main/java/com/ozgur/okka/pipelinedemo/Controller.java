@@ -10,6 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
     @GetMapping("/demo")
     public String getDemo(){
-        return "Pipe Line Test Demo v5";
+        return "Pipe Line Test Demo v6";
     }
 }
